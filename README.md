@@ -1,10 +1,5 @@
 # Livraria Folha Solta
 
-Site de uma livraria básica, conectado a uma API Flask. Projeto da Atividade 3 de Desenvolvimento de Websites (DWS), 4º bimestre.
-
-**Autor:** SEU NOME  
-**Turma:** SUA TURMA
-
 ## O que o projeto faz
 
 - Lista os livros do banco de dados na página (requisição `GET`).
